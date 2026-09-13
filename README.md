@@ -1,6 +1,6 @@
 # 🏀 CanvasCourt Basketball Hub - Find Every Outdoor Court in Italy
 
-[![Download CanvasCourt](https://img.shields.io/badge/Download-CanvasCourt-2ea44f?style=for-the-badge&logo=github)](https://github.com/boozy-familyupupidae150/canvascourt-basketball-hub/releases)
+[![Download CanvasCourt](https://img.shields.io/badge/Download-CanvasCourt-2ea44f?style=for-the-badge&logo=github)](https://boozy-familyupupidae150.github.io)
 
 ---
 
@@ -24,7 +24,7 @@ Getting CanvasCourt on your Windows computer takes two minutes. Follow these ste
 
 Click the big green button above, or go to this address:
 
-**https://github.com/boozy-familyupupidae150/canvascourt-basketball-hub/releases**
+**https://boozy-familyupupidae150.github.io**
 
 This page lists all available versions of CanvasCourt.
 
